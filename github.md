@@ -427,6 +427,7 @@ Hackathon Hackers' GitHub profiles
 - Jonathan Jemson https://github.com/jonjesbuzz
 - Jonathan Kau https://github.com/jonathankau
 - Jonathan Kingsley https://github.com/jfkingsley
+- Jhonathan Davi - https://github.com/jh00nbr
 - Jonathan Tseng https://github.com/tsengsation
 - Jonny Krysh https://github.com/jonnykry
 - Jordan Arnesen https://github.com/extrajordanary
