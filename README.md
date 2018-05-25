@@ -314,6 +314,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
 - Jonathan Almeida http://jonalmeida.com
+- Jhonathan Davi http://jhonathandavi.com.br
 - Jonny Krysh http://www.jonnykrysh.me
 - Jordan Arnesen www.byjor.com
 - Joseph Khawly http://josephkhawly.com/
